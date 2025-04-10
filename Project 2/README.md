@@ -3,6 +3,7 @@
 Implements a simple version of the cat command. It reads and prints the content of one or more files to the standard output. If no files are provided, it simply exits with a return code of 0.
 
 <h3>Usage</h3>
+
 ```
 my-cat [file...]
 ```
@@ -44,6 +45,7 @@ my-cat: cannot open file
 Implements a simple version of the grep command using the Boyer-Moore algorithm for pattern searching. The program reads input (from either a file or stdin) and searches for a specified pattern, printing the line whenever the pattern is found (multiple matches on a line will only result in a single line of ouput). 
 
 <h3>Usage</h3>
+
 ```
 my-grep <searchterm> [file...]
 ```

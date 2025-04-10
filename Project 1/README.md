@@ -2,6 +2,7 @@
 The reverse program reads lines of text from an input source and prints them in reverse order. It has three modes of operation.
 
 <h2>Usage</h2>
+
 ```
 ./reverse                       # Read from standard input and print reversed lines to standard output
 ./reverse input.txt             # Read from input.txt and print reversed lines to standard output

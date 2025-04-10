@@ -71,6 +71,7 @@ Other error messages include:
 
 
 <h3>Compilation</h3>
+
 ```
 gcc -o wish wish.c
 ```
